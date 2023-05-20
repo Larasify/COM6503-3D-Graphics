@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/larasify/jogl24/jar/jogl-all.jar",
+        "/Users/larasify/jogl24/jar/gluegen-rt.jar"
+    ]
+}
